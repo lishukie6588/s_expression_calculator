@@ -1,8 +1,8 @@
 ## Shukie Li
-## lishukie1988@gmail.com
+## lishukie6588@gmail.com
 ## +1 647 686 3849
 
-## Solution to S-expression calculator
+## Solution to S-expression calculator: https://en.wikipedia.org/wiki/S-expression
 ## Space Complexity: O(n) where n = number of characters in expression
 # - allows any number of values for each operation expression
 # - allows the following operations:
